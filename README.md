@@ -18,7 +18,7 @@ Key insights include relationships between demographics, driving history, and in
 
 ### 📁 Repository Structure
 📦 Customer-EDA/
-├── 📄 customer_eda.ipynb        # Full analysis notebook
+├── 📄 customer_analysis.ipynb        # Full analysis notebook
 ├── 📄 README.md                 # Documentation
 └── 📁 assets/                   # Plots & visuals
 
