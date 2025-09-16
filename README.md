@@ -23,13 +23,7 @@ Key insights include relationships between demographics, driving history, and in
 └── 📁 assets/                   # Plots & visuals
 
 ---
-### 📈 Results
 
-Missing data successfully imputed by logical grouping.
-
-Income and education strongly influence claim likelihood.
-
-Higher annual mileage correlates with more speeding violations.
 
 Claim rate varies across demographic and family profiles.
 
