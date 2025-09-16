@@ -24,7 +24,15 @@ Key insights include relationships between demographics, driving history, and in
 
 ---
 
-
-Claim rate varies across demographic and family profiles.
+### 🛠️ Technologies Used
+- **Programming Language:** Python 3  
+- **Libraries:**
+  - **NumPy** → Numerical computations  
+  - **Pandas** → Data cleaning, manipulation, and analysis  
+  - **Matplotlib** → Data visualization (plots & charts)  
+  - **Seaborn** → Statistical data visualization (heatmaps, histograms, etc.)  
+- **Tools:**
+  - Jupyter Notebook / Google Colab for running and visualizing analysis  
+  - GitHub for version control and project hosting  
 
 ---
